@@ -1,4 +1,4 @@
-# Review-Analysis
+# Yelp Review Sentiment Analysis
 Analysis on Yelp Reviews
 
 This project applied NLP techqniues including stemming and lemmatization, N-gram model, word embedding and tf-idf score to conduct sentiment analysis on Yelp review for a buffet restaurant in Las Vegas. The data is from open source Yelp data. \\
